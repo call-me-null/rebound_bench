@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- 本项目 (REBOUND benchmark) ----
+# 运行结果与日志
+bench_result/
+bench_log.txt
+bench_out/
+bench_*.json
+raw_orbitdata/
+test9_log.txt
+# REBOUND 模拟存档
+*.bin
