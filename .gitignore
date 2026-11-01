@@ -229,3 +229,5 @@ raw_orbitdata/
 test9_log.txt
 # REBOUND 模拟存档
 *.bin
+
+bench_log.txt

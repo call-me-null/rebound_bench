@@ -9,7 +9,7 @@ import socket
 from datetime import datetime
 
 # ===================== 参数 =====================
-N_PROC = 12            # 进程数
+N_PROC = 4            # 进程数
 N_PARTICLES = 16       # 每个进程的测试粒子数
 T_END = 5e7            # 积分时长 [yr]，约 3~4 小时（2.8GHz Xeon 单核估算）
 SEED = 12345           # 固定随机种子，保证每台机器跑的是同一份工作
